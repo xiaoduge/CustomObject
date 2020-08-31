@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="closebtn.png">images/clostbtn.png</file>
+        <file alias="maxbtn1.png">images/maxbtn1.png</file>
+        <file alias="maxbtn2.png">images/maxbtn2.png</file>
+        <file alias="minbtn.png">images/minbtn.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file alias="Awake.ico">icons/Awake.ico</file>
+        <file alias="sword.png">icons/sword.png</file>
+    </qresource>
+</RCC>
